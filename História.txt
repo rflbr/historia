@@ -1,7 +1,4 @@
-Essa atividade deverá ser feita em dupla. Você e seu colega desenvolverão, remotamente, duas histórias em conjunto. Uma será iniciada por você neste computador, numa branch com seu nome. A outra história pela outra pessoa, numa branch feita por ela.
-
-A ideia é que vocês escrevam apenas um parágrafo por vez, alternando entre escrever um parágrafo na sua história e o seguinte na do(a) colega.
-
-Quando terminarem de fazer um parágrafo, vocês deverão dar Push no git e esperar o(a) colega terminar de escrever o dele(a), e então, dar um Pull na branch deles e continuar a escrever na história deles de onde tiverem parado. 
-
-Você tem total liberdade para modificar trechos escritos por seu(ua) parceiro(a) na parte deles, mas vocês precisarão chegar a um acordo do que manter na hora de resolver os conflitos.
+﻿Luke era um cara legal, porém não tinha tanta sorte. Era bronze no lol, sem namorada, seu gato o odiava, era um desastre. Até que certo dia ele acha um livro no meio do campo de futebol do colégio. 
+Na capa, dava para ler "Livro de League of Legends". "Não pode ser!", brandou Luke, "É O LIVRO DO UCLA!", falou ainda incrédulo no artefato que tinha diante de suas mãos. Embora fosse bronze 5 hardstuck, 
+Luke tinha certeza que o motivo para ter elo tão baixo não era o seu Yasuo digno do Faker, e sim os seus times, que sempre conseguiam afundar. Talvez essa fosse a solução? Será que com esse achado, Luke seria capaz de fugir
+do sofrimento do Low Elo e conseguiria escapar para a terra longínqua do High Elo, no prata 5? Mas a jornada não seria tão fácil assim...
